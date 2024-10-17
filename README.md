@@ -1,11 +1,31 @@
 <h1 align="center">Hi 👋, I'm Prince Cyrus Ang</h1>
-<h3 align="center">A 2nd year student from New Era University</h3>
+I'm a passionate developer who loves coding and diving deep into databases. I enjoy building efficient, data-driven applications and
+continuously expanding my knowledge in this ever-evolving field.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Prinsipeach](https://github.com/Prinsipeach)
+<h2>Education</h2>
+
+BS Computer Science
+<br>New Era University
+<br>2023-Present
+
+<h2>Currently Learning</h2>
+
+<h3>SQL Optimization</h3>
+
+: Enhancing my skills in writing efficient queries and understanding database performance.
+
+<h3>NoSQL Databases</h3>
+
+: Exploring databases like MongoDB and Firebase to understand their unique features and use cases.
+
+<h3>Data Modeling</h3>
+: Learning best practices for designing scalable database architectures.
+
+<h3>- 👨‍💻 All of my projects are available at [https://github.com/Prinsipeach](https://github.com/Prinsipeach)
 
 - 📫 How to reach me **princecyrusang@gmail.com**
 
-- ⚡ Fun fact **I love spending time on codings**
+- ⚡ Fun fact **I love spending time on codings**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
