@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prince Cyrus Ang</h1>
+<h1 align="center">Hi 👋, I'm Prince Cyrus Andres Ang</h1>
 I'm a passionate developer who loves coding and diving deep into databases. I enjoy building efficient, data-driven applications and
 continuously expanding my knowledge in this ever-evolving field.
 
