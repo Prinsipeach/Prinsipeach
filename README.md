@@ -7,7 +7,11 @@ continuously expanding my knowledge in this ever-evolving field.
 BS Computer Science
 <br>New Era University
 <br>2023-Present
+<h3>My Certificates</h3>
+https://courses.cognitiveclass.ai/certificates/f8be69b65fea49fb9666fa2febbb62ba#
 
+
+  
 <h2>Currently Learning</h2>
 
 <h3>SQL Optimization</h3>
@@ -21,11 +25,7 @@ BS Computer Science
 <h3>Data Modeling</h3>
 : Learning best practices for designing scalable database architectures.
 
-<h3>- 👨‍💻 All of my projects are available at [https://github.com/Prinsipeach](https://github.com/Prinsipeach)
-
 - 📫 How to reach me **princecyrusang@gmail.com**
-
-- ⚡ Fun fact **I love spending time on codings**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
