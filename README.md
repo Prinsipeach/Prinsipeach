@@ -8,7 +8,11 @@ BS Computer Science
 <br>New Era University
 <br>2023-Present
 <h3>My Certificates</h3>
-https://courses.cognitiveclass.ai/certificates/f8be69b65fea49fb9666fa2febbb62ba#
+
+<p><a href="https://courses.cognitiveclass.ai/certificates/f8be69b65fea49fb9666fa2febbb62ba#" target="_blank">SQL and Relational Databases 101</a></p>
+
+<p><a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5398692&trackId=OCI2024FNDCFA&key=15262267d036cb788d34217163ae7d9d6205fa07" target="_blank">Oracle Cloud Infrastructure 2024 Foundations Associate (1Z0-1085-24)</a></p>
+
 
 
   
