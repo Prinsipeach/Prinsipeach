@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Prince Cyrus Andres Ang</h1>
-I'm a passionate developer who loves coding and diving deep into databases. I enjoy building efficient, data-driven applications and
-continuously expanding my knowledge in this ever-evolving field.
-
+<h1 align="center"><img src="https://iili.io/2MvG0Jf.gif" width="80%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fjalla+One&pause=1000&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Welcome+to+my+github+profile!;" />
+<p><strong><h2>
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="6.5%">&nbsp;About Me
+</h2></strong></p>
+<h2><p>I'm a passionate developer from Philippines who loves coding and diving deep into databases. I enjoy building efficient, data-driven applications and
+continuously expanding my knowledge in this ever-evolving field.</p>
+</h2>
 <h2>Education</h2>
-
-BS Computer Science  
-New Era University  
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+<p>BS Computer Science</p> 
+<p>New Era University</p> 
 2023-Present
-
+  <br><br>
 <h3>My Certificates</h3>
 
 <p><a href="https://courses.cognitiveclass.ai/certificates/f8be69b65fea49fb9666fa2febbb62ba#" target="_blank">SQL and Relational Databases 101</a></p>
